@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import RecipeList from "../components/RecipeList";
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import RecipeDetailsPage from "../components/RecipeDetailsPage";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import FavoriteList from "../components/FavoriteList";
 import SearchBar from "../components/SearchBar";
 import Banner from "../components/Banner";
