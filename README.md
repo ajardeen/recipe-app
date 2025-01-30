@@ -4,6 +4,10 @@
 
 This project is a Recipe App built using ReactJS and Redux. The application allows users to browse and search for recipes, save their favorite recipes, and apply filters to find specific types of recipes. The app fetches recipe data from an external API and provides a user-friendly interface to display recipe details, including ingredients, instructions, preparation time, and serving size.
 
+## ScreenShot
+ ![RecipeAPP Preview](./src/assets/Screenshot.jpeg)
+
+
 ## Features
 
 - **Recipe Collection**: Display a collection of recipes with titles, images,time and brief descriptions.
